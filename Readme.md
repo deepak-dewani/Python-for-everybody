@@ -9,17 +9,17 @@ Learning python course and practicing the related programms/code.
 3. Taking example of conditional operator(Odd and Even)
 
 4. Practice sessions:
-  Introduction
-  Assignment Operation
-  Variables, Expressions and statements
-  Conditional & Repeated opearators
-  Functions in python
-  Looping and Iterations
-  Strings and String Formatting
-  Lists and list formatting
-  Dictionaries 
-  Tuples
-  Regular Expression
-  Network programming
-  XML and JSON(using Webservices)
+    Introduction
+    Assignment Operation
+    Variables, Expressions and statement
+    Conditional & Repeated opearators
+    Functions in python
+    Looping and Iterations
+    Strings and String Formatting
+    Lists and list formatting
+    Dictionaries 
+    Tuples
+    Regular Expression
+    Network programming
+    XML and JSON(using Webservices)
   
