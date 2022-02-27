@@ -4,22 +4,18 @@ Getting Started
 Learning python course and practicing the related programms/code.
 
 # Coding List
-1. Hello World 
-2. Use of conditional operator
-3. Taking example of conditional operator(Odd and Even)
-
-4. Practice sessions:
-    Introduction
-    Assignment Operation
-    Variables, Expressions and statement
-    Conditional & Repeated opearators
-    Functions in python
-    Looping and Iterations
-    Strings and String Formatting
-    Lists and list formatting
-    Dictionaries 
-    Tuples
-    Regular Expression
-    Network programming
-    XML and JSON(using Webservices)
+    1. Introduction
+    2. Assignment Operation
+    3. Variables, Expressions and statement
+    4. Conditional & Repeated opearators
+    5. Functions in python
+    6. Looping and Iterations
+    7. Strings and String Formatting
+    8. Lists and list formatting
+    9. Dictionaries 
+    10. Tuples
+    11. Regular Expression
+    12. Network programming
+    13. XML and JSON(using Webservices)
+    14. Databases
   
